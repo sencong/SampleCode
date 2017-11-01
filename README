@@ -1,0 +1,22 @@
+// Name: Will Nobles
+// loginid: wnobles
+// cs455, lab10
+
+Question 1.1
+Just iterating over the values loses the key information.  If by looping to visit the values in order meant iterating over the entries, then the entries are in a set, which is un-ordered and thus can't be sorted.
+
+Question 2.1
+"The," "I," "of," "to," and "a" occur most frequently.
+
+Question 2.2
+In the melville.txt file, the words "his" and "he" occur most frequently.  This is because the main characters in the story are male.  The other file, poe.txt, a word occurring most frequently is "my."  This is because the story is told from the perspective of the narrator.
+
+Question 2.3
+The keys are alphabetized for words that have the same frequency.  This is because the TreeMap keys are maintained in a sorted order.
+
+Question 3.1
+new LargeWordPred(12) is a constructor call that produces an instance of a predicate.  The printSatisfying function expects an instance of type predicate, so this is sufficient.
+
+Question 3.2
+obstreperousness 1 (melville15.out)
+connoisseurship 1 (poe15.out
